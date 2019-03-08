@@ -1,0 +1,47 @@
+------------------------------------------------------------
+  Plugin list generated with BackWPup version: 3.6.8
+  http://backwpup.com
+  Blog Name: DEMIDIAS
+  Blog URL: https://demidias.com.br
+  Generated on: 2019-03-08 14:25.45
+------------------------------------------------------------
+
+
+All plugin information:
+------------------------------
+All-in-One WP Migration (v.6.77) from ServMask
+	https://servmask.com/
+BackWPup (v.3.6.8) from Inpsyde GmbH
+	http://backwpup.com
+wpDiscuz (v.5.1.5) from gVectors Team (A. Chakhoyan, G. Zakaryan, H. Martirosyan)
+	http://wpdiscuz.com/
+WP Extended Search (v.1.2) from 5um17
+	http://www.secretsofgeeks.com/2014/09/wordpress-search-tags-and-categories.html
+WP Fastest Cache (v.0.8.8.6) from Emre Vona
+	http://wordpress.org/plugins/wp-fastest-cache/
+WP Smush (v.2.7.8) from WPMU DEV
+	http://wordpress.org/extend/plugins/wp-smushit/
+WP User Avatar (v.2.1.5) from flippercode
+	http://wordpress.org/plugins/wp-user-avatar/
+WP User Frontend (v.2.9.1) from Tareq Hasan
+	https://wordpress.org/plugins/wp-user-frontend/
+WP User Frontend Pro (v.2.6.0) from weDevs
+	https://wedevs.com/wp-user-frontend-pro/
+WTI Like Post (v.1.4.4) from webtechideas
+	http://www.webtechideas.in/wti-like-post-plugin/
+
+Active plugins:
+------------------------------
+All-in-One WP Migration
+BackWPup
+wpDiscuz
+WP Extended Search
+WP Fastest Cache
+WP Smush
+WP User Avatar
+WP User Frontend
+WP User Frontend Pro
+WTI Like Post
+
+Inactive plugins:
+------------------------------

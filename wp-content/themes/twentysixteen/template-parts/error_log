@@ -1,0 +1,8 @@
+[05-Dec-2018 09:18:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home3/demidias/public_html/wp-content/themes/twentysixteen/template-parts/content-single.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/demidias/public_html/wp-content/themes/twentysixteen/template-parts/content-single.php on line 11
+[05-Dec-2018 17:33:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home3/demidias/public_html/wp-content/themes/twentysixteen/template-parts/content-single.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/demidias/public_html/wp-content/themes/twentysixteen/template-parts/content-single.php on line 11

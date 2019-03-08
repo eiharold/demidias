@@ -1,0 +1,9 @@
+#wpcomm .wpd-top-custom-fields .wpd-custom-field.wpd-cf-rating .wpd-cf-label{ background:transparent; border:none; padding: 2px 2px 2px 10px; }
+#wpcomm .wpdiscuz-item .wpdiscuz-rating {float: right; padding:5px 1px 5px 0px; margin-right:-5px;}
+#wpcomm .wpdiscuz-item .wpdiscuz-rating > label { float: left; }
+#wpcomm .wpd-form-col-full .wpdiscuz-item.wpd-field-rating.wpd-has-desc .wpd-field-desc{ left:0px;margin-right:5px;}
+#wpcomm .wpd-form-col-full .wpd-field-group .wpd-field-group-title{ padding:0px 0px 2px 0px;}
+#wpcomm .wpd-form-col-full .wpdiscuz-item .wpdiscuz-rating{ padding:0px 0px 0px 6px; }
+#wpcomm .wpd-form-col-full .wpd-item-wrap{ float:right; padding-left:7px; padding:0px 1px 1px 1px;}
+.wpdiscuz-stars-label{padding:10px 3px 2px 0px;}
+.wpdiscuz-activ-stars{ right:0;}

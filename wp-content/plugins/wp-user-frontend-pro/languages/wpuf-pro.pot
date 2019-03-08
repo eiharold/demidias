@@ -1,0 +1,2019 @@
+# Copyright (C) 2017 weDevs
+# This file is distributed under the GPL2.
+msgid ""
+msgstr ""
+"Project-Id-Version: WP User Frontend Pro 2.6.0\n"
+"Report-Msgid-Bugs-To: "
+"https://wedevs.com/support/forum/plugin-support/wp-user-frontend-pro/\n"
+"POT-Creation-Date: 2017-11-08 10:13:43+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"X-Generator: grunt-wp-i18n 0.5.4\n"
+
+#: admin/coupon-element.php:29
+msgid "Type"
+msgstr ""
+
+#: admin/coupon-element.php:33 admin/coupon.php:49
+msgid "Fixed Price"
+msgstr ""
+
+#: admin/coupon-element.php:34 admin/coupon.php:51
+msgid "Percentage"
+msgstr ""
+
+#: admin/coupon-element.php:40 admin/coupon.php:99
+msgid "Amount"
+msgstr ""
+
+#: admin/coupon-element.php:44
+msgid "Amount without <code>%</code> or currency symbol"
+msgstr ""
+
+#: admin/coupon-element.php:49
+msgid "Description"
+msgstr ""
+
+#: admin/coupon-element.php:53
+msgid "Give a description of this coupon"
+msgstr ""
+
+#: admin/coupon-element.php:58
+msgid "Package"
+msgstr ""
+
+#: admin/coupon-element.php:61
+msgid "Select one or more packages to apply coupon"
+msgstr ""
+
+#: admin/coupon-element.php:66
+msgid "Usage Limit"
+msgstr ""
+
+#: admin/coupon-element.php:70
+msgid "How many times the coupon can be used? Give a numeric value."
+msgstr ""
+
+#: admin/coupon-element.php:75
+msgid "Validity"
+msgstr ""
+
+#: admin/coupon-element.php:77
+msgid "Start date"
+msgstr ""
+
+#: admin/coupon-element.php:78
+msgid "End date"
+msgstr ""
+
+#: admin/coupon-element.php:84
+msgid "Email Restriction"
+msgstr ""
+
+#: admin/coupon-element.php:88
+msgid ""
+"Only users with these email addresses will be able to use this coupon. "
+"Enter Email addresses. One per each line."
+msgstr ""
+
+#: admin/coupon.php:68
+msgid "&infin;"
+msgstr ""
+
+#: admin/coupon.php:97
+msgid "Coupon Code"
+msgstr ""
+
+#: admin/coupon.php:98
+msgid "Coupon Type"
+msgstr ""
+
+#: admin/coupon.php:100
+msgid "Usage / Limit"
+msgstr ""
+
+#: admin/coupon.php:101
+msgid "Expire date"
+msgstr ""
+
+#: admin/coupon.php:116 admin/coupon.php:119
+msgid "Coupon updated."
+msgstr ""
+
+#: admin/coupon.php:117
+msgid "Custom field updated."
+msgstr ""
+
+#: admin/coupon.php:118
+msgid "Custom field deleted."
+msgstr ""
+
+#: admin/coupon.php:120
+msgid "Coupon restored to revision from %s"
+msgstr ""
+
+#: admin/coupon.php:121
+msgid "Coupon published."
+msgstr ""
+
+#: admin/coupon.php:122
+msgid "Coupon saved."
+msgstr ""
+
+#: admin/coupon.php:123
+msgid "Coupon submitted."
+msgstr ""
+
+#: admin/coupon.php:125
+msgid "Coupon draft updated."
+msgstr ""
+
+#: admin/coupon.php:143
+msgid "Enter coupon code"
+msgstr ""
+
+#: admin/coupon.php:158 admin/coupon.php:178 admin/coupon.php:179
+#: admin/coupon.php:180
+msgid "Coupon"
+msgstr ""
+
+#: admin/coupon.php:181
+msgid "Add Coupon"
+msgstr ""
+
+#: admin/coupon.php:182
+msgid "Add New Coupon"
+msgstr ""
+
+#: admin/coupon.php:183 admin/profile-forms-list-table.php:375
+#: includes/profile-form.php:87
+msgid "Edit"
+msgstr ""
+
+#: admin/coupon.php:184
+msgid "Edit Coupon"
+msgstr ""
+
+#: admin/coupon.php:185
+msgid "New Coupon"
+msgstr ""
+
+#: admin/coupon.php:186 admin/coupon.php:187
+msgid "View Coupon"
+msgstr ""
+
+#: admin/coupon.php:188
+msgid "Search Coupon"
+msgstr ""
+
+#: admin/coupon.php:189
+msgid "No Coupon Found"
+msgstr ""
+
+#: admin/coupon.php:190
+msgid "No Coupon Found in Trash"
+msgstr ""
+
+#: admin/coupon.php:191
+msgid "Parent Coupon"
+msgstr ""
+
+#: admin/coupon.php:202
+msgid "Coupon Details"
+msgstr ""
+
+#: admin/coupon.php:307
+msgid "All package"
+msgstr ""
+
+#: admin/form-builder/assets/js/components/field-address/template.php:24
+#: admin/form-builder/assets/js/components/field-address/template.php:68
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:264
+#: assets/js-templates/form-components.php:25
+#: assets/js-templates/form-components.php:69
+msgid "Required"
+msgstr ""
+
+#: admin/form-builder/assets/js/components/field-address/template.php:39
+#: admin/form-builder/assets/js/components/field-address/template.php:83
+#: assets/js-templates/form-components.php:40
+#: assets/js-templates/form-components.php:84 includes/form-element.php:1211
+#: includes/form-element.php:1515 includes/form-element.php:1587
+msgid "Label"
+msgstr ""
+
+#: admin/form-builder/assets/js/components/field-address/template.php:43
+#: assets/js-templates/form-components.php:44
+msgid "Default"
+msgstr ""
+
+#: admin/form-builder/assets/js/components/field-address/template.php:47
+#: assets/js-templates/form-components.php:48 includes/form-element.php:1213
+msgid "Placeholder"
+msgstr ""
+
+#: admin/form-builder/assets/js/components/field-address/template.php:89
+#: admin/form-builder/assets/js/components/field-country-list/template.php:4
+#: assets/js-templates/form-components.php:90
+#: assets/js-templates/form-components.php:216 includes/form-element.php:972
+msgid "Default Country"
+msgstr ""
+
+#: admin/form-builder/assets/js/components/field-address/template.php:92
+#: admin/form-builder/assets/js/components/field-country-list/template.php:7
+#: admin/form-builder/assets/js/components/form-address_field/template.php:26
+#: admin/form-builder/assets/js/components/form-country_list_field/template.php:3
+#: assets/js-templates/form-components.php:93
+#: assets/js-templates/form-components.php:219
+#: assets/js-templates/form-components.php:388
+#: assets/js-templates/form-components.php:423
+msgid "Select Country"
+msgstr ""
+
+#: admin/form-builder/assets/js/components/field-address/template.php:98
+#: admin/form-builder/assets/js/components/field-country-list/template.php:14
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:379
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:386
+#: assets/js-templates/form-components.php:99
+#: assets/js-templates/form-components.php:226 includes/form-element.php:16
+msgid "Country List"
+msgstr ""
+
+#: admin/form-builder/assets/js/components/field-address/template.php:114
+#: admin/form-builder/assets/js/components/field-country-list/template.php:30
+#: admin/form-builder/class-wpuf-form-builder-pro.php:236
+#: assets/js-templates/form-components.php:115
+#: assets/js-templates/form-components.php:242
+msgid "Select Countries"
+msgstr ""
+
+#: admin/form-builder/assets/js/components/field-conditional-logic/template.php:3
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:46
+#: assets/js-templates/form-components.php:148 includes/form-element.php:566
+msgid "Conditional Logic"
+msgstr ""
+
+#: admin/form-builder/assets/js/components/field-conditional-logic/template.php:8
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:267
+#: assets/js-templates/form-components.php:153 includes/class-invoice.php:53
+#: includes/form-element.php:569
+msgid "Yes"
+msgstr ""
+
+#: admin/form-builder/assets/js/components/field-conditional-logic/template.php:12
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:268
+#: assets/js-templates/form-components.php:157 includes/class-invoice.php:54
+#: includes/form-element.php:570
+msgid "No"
+msgstr ""
+
+#: admin/form-builder/assets/js/components/field-conditional-logic/template.php:21
+#: admin/form-builder/assets/js/components/field-conditional-logic/template.php:38
+#: assets/js-templates/form-components.php:166
+#: assets/js-templates/form-components.php:183
+msgid "- select -"
+msgstr ""
+
+#: admin/form-builder/assets/js/components/field-conditional-logic/template.php:31
+#: assets/js-templates/form-components.php:176
+msgid "is"
+msgstr ""
+
+#: admin/form-builder/assets/js/components/field-conditional-logic/template.php:32
+#: assets/js-templates/form-components.php:177
+msgid "is not"
+msgstr ""
+
+#: admin/form-builder/assets/js/components/field-conditional-logic/template.php:58
+#: assets/js-templates/form-components.php:203
+msgid "Show this field when %s of these rules are met"
+msgstr ""
+
+#: admin/form-builder/assets/js/components/field-conditional-logic/template.php:59
+#: assets/js-templates/form-components.php:204
+msgid "any"
+msgstr ""
+
+#: admin/form-builder/assets/js/components/field-conditional-logic/template.php:59
+#: assets/js-templates/form-components.php:204
+msgid "all"
+msgstr ""
+
+#: admin/form-builder/assets/js/components/field-gmap-set-position/template.php:3
+#: assets/js-templates/form-components.php:271
+msgid "Map Settings"
+msgstr ""
+
+#: admin/form-builder/assets/js/components/field-gmap-set-position/template.php:7
+#: assets/js-templates/form-components.php:275
+msgid "Set default co-ordinate and zoom level"
+msgstr ""
+
+#: admin/form-builder/assets/js/components/field-gmap-set-position/template.php:10
+#: admin/form-builder/assets/js/components/form-google_map/template.php:3
+#: assets/js-templates/form-components.php:278
+#: assets/js-templates/form-components.php:487 includes/render-form.php:240
+msgid "Search address"
+msgstr ""
+
+#: admin/form-builder/assets/js/components/field-gmap-set-position/template.php:21
+#: assets/js-templates/form-components.php:289
+msgid "Show address search box"
+msgstr ""
+
+#: admin/form-builder/assets/js/components/field-step-start/template.php:4
+#: assets/js-templates/form-components.php:327 includes/form-element.php:1388
+msgid "Section Name"
+msgstr ""
+
+#: admin/form-builder/assets/js/components/field-step-start/template.php:4
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:770
+#: assets/js-templates/form-components.php:327 includes/form-element.php:1391
+#: includes/form-element.php:1432
+msgid "Title"
+msgstr ""
+
+#: admin/form-builder/assets/js/components/field-step-start/template.php:12
+#: assets/js-templates/form-components.php:335 includes/form-element.php:1395
+#: includes/form-element.php:1397
+msgid "Previous Button Text"
+msgstr ""
+
+#: admin/form-builder/assets/js/components/field-step-start/template.php:20
+#: assets/js-templates/form-components.php:343 includes/form-element.php:1401
+#: includes/form-element.php:1403
+msgid "Next Button Text"
+msgstr ""
+
+#: admin/form-builder/assets/js/components/form-action_hook/template.php:2
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:838
+#: assets/js-templates/form-components.php:353 includes/form-element.php:31
+msgid "Action Hook"
+msgstr ""
+
+#: admin/form-builder/assets/js/components/form-action_hook/template.php:5
+#: assets/js-templates/form-components.php:356
+msgid "hook name isn't set"
+msgstr ""
+
+#: admin/form-builder/assets/js/components/form-avatar/template.php:5
+#: assets/js-templates/form-components.php:411
+msgid "Select Image"
+msgstr ""
+
+#: admin/form-builder/assets/js/components/form-file_upload/template.php:5
+#: assets/js-templates/form-components.php:462
+msgid "Select Files"
+msgstr ""
+
+#: admin/form-builder/assets/js/components/form-google_map/template.php:8
+#: assets/js-templates/form-components.php:492 includes/render-form.php:247
+msgid "Directions »"
+msgstr ""
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:67
+#: includes/form-element.php:690
+msgid "Multiple Column"
+msgstr ""
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:71
+msgid "Enable Multi Column"
+msgstr ""
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:80
+#: includes/form-element.php:713
+msgid "Columns"
+msgstr ""
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:92
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:450
+#: includes/form-element.php:698
+msgid "Placeholder text"
+msgstr ""
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:96
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:454
+msgid "Text for HTML5 placeholder attribute"
+msgstr ""
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:104
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:459
+#: includes/form-element.php:703
+msgid "Default value"
+msgstr ""
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:108
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:464
+msgid "The default value this field will have"
+msgstr ""
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:116
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:469
+#: includes/form-element.php:708
+msgid "Size"
+msgstr ""
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:120
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:474
+msgid "Size of this input field"
+msgstr ""
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:126
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:133
+#: includes/form-element.php:11
+msgid "Repeat Field"
+msgstr ""
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:143
+msgid "Column 1"
+msgstr ""
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:165
+#: includes/form-element.php:774
+msgid "Date Format"
+msgstr ""
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:169
+#: includes/form-element.php:763
+msgid "The date format"
+msgstr ""
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:178
+#: includes/form-element.php:785
+msgid "Enable time input"
+msgstr ""
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:191
+#: includes/form-element.php:797
+msgid "Set this as publish time input"
+msgstr ""
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:201
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:208
+msgid "Date / Time"
+msgstr ""
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:237
+msgid "Field Label"
+msgstr ""
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:241
+msgid "Enter a title of this field"
+msgstr ""
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:246
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:864
+msgid "Meta Key"
+msgstr ""
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:250
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:868
+msgid "Name of the meta key this field will save to"
+msgstr ""
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:255
+msgid "Help text"
+msgstr ""
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:259
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:283
+msgid "Give the user some information about this field"
+msgstr ""
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:274
+msgid ""
+"Check this option to mark the field required. A form will not submit unless "
+"all required fields are provided."
+msgstr ""
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:279
+msgid "CSS Class Name"
+msgstr ""
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:288
+#: admin/template-profile.php:198 includes/form-element.php:840
+#: includes/profile-form.php:1046
+msgid "Max. file size"
+msgstr ""
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:293
+#: admin/template-profile.php:186 includes/form-element.php:828
+#: includes/profile-form.php:1050
+msgid "Enter maximum upload size limit in KB"
+msgstr ""
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:298
+#: includes/form-element.php:845 includes/profile-form.php:1055
+msgid "Max. files"
+msgstr ""
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:303
+#: includes/form-element.php:829 includes/profile-form.php:1059
+msgid "Number of images can be uploaded"
+msgstr ""
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:308
+#: includes/form-element.php:850
+msgid "Allowed Files"
+msgstr ""
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:312
+msgid "Images (jpg, jpeg, gif, png, bmp)"
+msgstr ""
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:313
+msgid "Audio (mp3, wav, ogg, wma, mka, m4a, ra, mid, midi)"
+msgstr ""
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:314
+msgid "Videos (avi, divx, flv, mov, ogv, mkv, mp4, m4v, divx, mpg, mpeg, mpe)"
+msgstr ""
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:315
+msgid "PDF (pdf)"
+msgstr ""
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:316
+msgid ""
+"Office Documents (doc, ppt, pps, xls, mdb, docx, xlsx, pptx, odt, odp, ods, "
+"odg, odc, odb, odf, rtf, txt)"
+msgstr ""
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:317
+msgid "Zip Archives (zip, gz, gzip, rar, 7z)"
+msgstr ""
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:318
+msgid "Executable Files (exe)"
+msgstr ""
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:319
+msgid "CSV (csv)"
+msgstr ""
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:331
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:338
+#: includes/form-element.php:14
+msgid "File Upload"
+msgstr ""
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:420
+#: includes/form-element.php:1042
+msgid "Step"
+msgstr ""
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:430
+#: includes/form-element.php:1051
+msgid "Min Value"
+msgstr ""
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:440
+#: includes/form-element.php:1060
+msgid "Max Value"
+msgstr ""
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:480
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:487
+#: includes/form-element.php:17
+msgid "Numeric Field"
+msgstr ""
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:521
+msgid "Address Fields"
+msgstr ""
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:531
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:539
+#: includes/form-element.php:18
+msgid "Address Field"
+msgstr ""
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:556
+#: admin/form-builder/class-wpuf-form-builder-pro.php:227
+#: includes/form-element.php:1093 includes/form-element.php:1223
+msgid "Address Line 1"
+msgstr ""
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:565
+#: admin/form-builder/class-wpuf-form-builder-pro.php:228
+#: includes/form-element.php:1109 includes/form-element.php:1240
+msgid "Address Line 2"
+msgstr ""
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:574
+#: admin/form-builder/class-wpuf-form-builder-pro.php:229
+#: includes/form-element.php:1125 includes/templates/billing-address.php:52
+msgid "City"
+msgstr ""
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:583
+#: admin/form-builder/class-wpuf-form-builder-pro.php:230
+#: includes/form-element.php:1141
+msgid "State"
+msgstr ""
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:592
+#: admin/form-builder/class-wpuf-form-builder-pro.php:231
+#: includes/form-element.php:1157
+msgid "Zip Code"
+msgstr ""
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:601
+#: admin/form-builder/class-wpuf-form-builder-pro.php:232
+#: includes/form-element.php:1173 includes/form-element.php:1311
+msgid "Country"
+msgstr ""
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:633
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:640
+#: includes/form-element.php:19
+msgid "Step Start"
+msgstr ""
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:645
+msgid "Previous"
+msgstr ""
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:646
+msgid "Next"
+msgstr ""
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:669
+#: includes/form-element.php:888
+msgid "Enter default latitude and longitude to center the map"
+msgstr ""
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:676
+msgid "Show directions link"
+msgstr ""
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:685
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:701
+msgid "Google Map"
+msgstr ""
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:690
+msgid "Google Map API key"
+msgstr ""
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:692
+msgid ""
+"You need to set Google Map API key in <a href=\"%s\" target=\"_blank\">WPUF "
+"Settings</a> in order to use \"Google Map\" field. <a href=\"%s\" "
+"target=\"_blank\">Click here to get the API key</a>."
+msgstr ""
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:732
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:742
+#: admin/profile-forms-list-table.php:292 includes/form-element.php:29
+msgid "Shortcode"
+msgstr ""
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:736
+msgid "Input your shortcode here"
+msgstr ""
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:774
+msgid "Title of the section"
+msgstr ""
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:780
+#: includes/form-element.php:30
+msgid "Really Simple Captcha"
+msgstr ""
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:785
+msgid "Plugin dependency"
+msgstr ""
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:787
+msgid ""
+"This field depends on <a href=\"%s\" target=\"_blank\">Really Simple "
+"Captcha</a> plugin. Install and activate it first."
+msgstr ""
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:815
+#: includes/form-element.php:1468
+msgid "Hook Name"
+msgstr ""
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:819
+#: includes/form-element.php:1471
+msgid "Name of the hook"
+msgstr ""
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:828
+msgid ""
+"An option for developers to add dynamic elements they want. It provides the "
+"chance to add whatever input type you want to add in this form. This way, "
+"you can bind your own functions to render the form to this action hook. "
+"You'll be given 3 parameters to play with: $form_id, $post_id, "
+"$form_settings."
+msgstr ""
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:873
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:892
+#: includes/form-element.php:1521
+msgid "Terms & Conditions"
+msgstr ""
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:883
+msgid "Show checkbox"
+msgstr ""
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:902
+msgid ""
+"I have read and agree to the <a href=\"#\">Terms and Conditions</a> and <a "
+"href=\"#\">Privacy Policy</a>"
+msgstr ""
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:931
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:938
+#: includes/form-element.php:33
+msgid "Ratings"
+msgstr ""
+
+#: admin/form-builder/class-wpuf-form-builder-field-settings-pro.php:946
+msgid "Option"
+msgstr ""
+
+#: admin/form-builder/class-wpuf-form-builder-pro.php:233
+msgid "Show all"
+msgstr ""
+
+#: admin/form-builder/class-wpuf-form-builder-pro.php:234
+msgid "Hide these"
+msgstr ""
+
+#: admin/form-builder/class-wpuf-form-builder-pro.php:235
+msgid "Only show these"
+msgstr ""
+
+#: admin/form-builder/views/form-builder.php:4
+msgid "Form Editor"
+msgstr ""
+
+#: admin/form-builder/views/form-builder.php:8
+msgid "Settings"
+msgstr ""
+
+#: admin/form-builder/views/form-builder.php:15
+msgid "Save Form"
+msgstr ""
+
+#: admin/form-builder/views/form-builder.php:19
+msgid "Preview Form"
+msgstr ""
+
+#: admin/form-builder/views/form-builder.php:45
+msgid "Add Fields"
+msgstr ""
+
+#: admin/form-builder/views/form-builder.php:51
+msgid "Field Options"
+msgstr ""
+
+#: admin/posting-profile.php:135
+msgid "WPUF Post Lock"
+msgstr ""
+
+#: admin/posting-profile.php:138
+msgid "Lock Post:"
+msgstr ""
+
+#: admin/posting-profile.php:144
+msgid "Lock user from creating new post."
+msgstr ""
+
+#: admin/posting-profile.php:149
+msgid "Lock Reason:"
+msgstr ""
+
+#: admin/pro-page-installer.php:11 includes/profile-form.php:161
+msgid "Registration"
+msgstr ""
+
+#: admin/profile-forms-list-table-view.php:4
+msgid "Profile Forms"
+msgstr ""
+
+#: admin/profile-forms-list-table-view.php:8 includes/profile-form.php:85
+msgid "Add Form"
+msgstr ""
+
+#: admin/profile-forms-list-table-view.php:22
+msgid "Search Forms"
+msgstr ""
+
+#: admin/profile-forms-list-table.php:41
+msgid "All"
+msgstr ""
+
+#: admin/profile-forms-list-table.php:42
+msgid "Published"
+msgstr ""
+
+#: admin/profile-forms-list-table.php:43 admin/profile-forms-list-table.php:376
+msgid "Trash"
+msgstr ""
+
+#: admin/profile-forms-list-table.php:93
+msgid "No form found."
+msgstr ""
+
+#: admin/profile-forms-list-table.php:107
+msgid "Move to Trash"
+msgstr ""
+
+#: admin/profile-forms-list-table.php:111
+#: admin/profile-forms-list-table.php:388
+msgid "Restore"
+msgstr ""
+
+#: admin/profile-forms-list-table.php:112
+#: admin/profile-forms-list-table.php:389
+msgid "Delete Permanently"
+msgstr ""
+
+#: admin/profile-forms-list-table.php:290
+msgid "Form Name"
+msgstr ""
+
+#: admin/profile-forms-list-table.php:291 includes/profile-form.php:231
+msgid "User Role"
+msgstr ""
+
+#: admin/profile-forms-list-table.php:377
+msgid "Duplicate"
+msgstr ""
+
+#: admin/profile-forms-list-table.php:398
+msgid "Draft"
+msgstr ""
+
+#: admin/template-profile.php:131
+msgid "Confirm Password"
+msgstr ""
+
+#: admin/template-profile.php:143 includes/profile-form.php:972
+msgid "Minimum password length"
+msgstr ""
+
+#: admin/template-profile.php:149 includes/profile-form.php:979
+msgid "Password Re-type"
+msgstr ""
+
+#: admin/template-profile.php:155 includes/profile-form.php:981
+msgid "Require Password repeat"
+msgstr ""
+
+#: admin/template-profile.php:161 includes/profile-form.php:988
+msgid "Re-type password label"
+msgstr ""
+
+#: admin/template-profile.php:167 includes/profile-form.php:995
+msgid "Password Strength Meter"
+msgstr ""
+
+#: admin/template-profile.php:173 includes/profile-form.php:997
+msgid "Show password strength meter"
+msgstr ""
+
+#: includes/class-invoice-frontend.php:48 includes/class-invoice.php:35
+msgid "Invoices"
+msgstr ""
+
+#: includes/class-invoice-frontend.php:49
+msgid "Billing Address"
+msgstr ""
+
+#: includes/class-invoice.php:48
+msgid "Show Invoices and Billing Address"
+msgstr ""
+
+#: includes/class-invoice.php:49
+msgid "Show Billing Address and Invoices option in dashboard"
+msgstr ""
+
+#: includes/class-invoice.php:59
+msgid "Set Invoice Logo"
+msgstr ""
+
+#: includes/class-invoice.php:60
+msgid "This sets the company Logo to be used in Invoice"
+msgstr ""
+
+#: includes/class-invoice.php:66
+msgid "Set Invoice Color"
+msgstr ""
+
+#: includes/class-invoice.php:67
+msgid "Set color code to be used in invoice"
+msgstr ""
+
+#: includes/class-invoice.php:73
+msgid "From Address"
+msgstr ""
+
+#: includes/class-invoice.php:74 includes/class-invoice.php:80
+msgid "This sets the payment information title of the Invoice"
+msgstr ""
+
+#: includes/class-invoice.php:79
+msgid "Invoice Title"
+msgstr ""
+
+#: includes/class-invoice.php:85
+msgid "Invoice Paragraph"
+msgstr ""
+
+#: includes/class-invoice.php:86
+msgid "This sets the payment information paragraph of the Invoice"
+msgstr ""
+
+#: includes/class-invoice.php:91
+msgid "Invoice Footer"
+msgstr ""
+
+#: includes/class-invoice.php:92
+msgid "This sets the fotter of the Invoice"
+msgstr ""
+
+#: includes/class-invoice.php:97
+msgid "Invoice Filename Prefix"
+msgstr ""
+
+#: includes/class-invoice.php:98
+msgid "This sets the filename prefix of the Invoice"
+msgstr ""
+
+#: includes/class-invoice.php:103
+msgid "Set Invoice Mail Subject"
+msgstr ""
+
+#: includes/class-invoice.php:104
+msgid "This sets the mail subject of the Invoice"
+msgstr ""
+
+#: includes/class-invoice.php:109
+msgid "Set Invoice Mail Body"
+msgstr ""
+
+#: includes/class-invoice.php:110
+msgid "This sets the mail body of the Invoice"
+msgstr ""
+
+#: includes/class-menu-restriction.php:119
+msgid "User Links"
+msgstr ""
+
+#: includes/class-menu-restriction.php:131
+msgid "Login"
+msgstr ""
+
+#: includes/class-menu-restriction.php:135
+msgid "Logout"
+msgstr ""
+
+#: includes/class-menu-restriction.php:188
+msgid "Select All"
+msgstr ""
+
+#: includes/class-menu-restriction.php:192
+msgid "Add to Menu"
+msgstr ""
+
+#: includes/class-menu-restriction.php:357 includes/content-restriction.php:55
+msgid "Everyone"
+msgstr ""
+
+#: includes/class-menu-restriction.php:358
+msgid "Logged Out Users"
+msgstr ""
+
+#: includes/class-menu-restriction.php:359
+msgid "Logged In Users"
+msgstr ""
+
+#: includes/class-menu-restriction.php:360
+msgid "Subscription Packs"
+msgstr ""
+
+#: includes/class-menu-restriction.php:367
+msgid "Who can see this link?"
+msgstr ""
+
+#: includes/class-menu-restriction.php:383
+msgid "Choose which roles can see this link"
+msgstr ""
+
+#: includes/class-menu-restriction.php:396
+msgid "Choose which subscription pack users can see this link"
+msgstr ""
+
+#: includes/content-restriction.php:32
+msgid "WPUF Content Restriction"
+msgstr ""
+
+#: includes/content-restriction.php:53
+msgid "Display to"
+msgstr ""
+
+#: includes/content-restriction.php:56
+msgid "Logged in users only"
+msgstr ""
+
+#: includes/content-restriction.php:57
+msgid "Subscription users only"
+msgstr ""
+
+#: includes/content-restriction.php:62
+msgid "Subscription Plans"
+msgstr ""
+
+#: includes/content-restriction.php:74
+msgid ""
+"Members subscribed to these subscription plans will be able to view this "
+"page."
+msgstr ""
+
+#: includes/content-restriction.php:76
+msgid "No subscription plan found."
+msgstr ""
+
+#: includes/content-restriction.php:83
+msgid "User Roles"
+msgstr ""
+
+#: includes/content-restriction.php:182
+msgid "You must be %s to view the content."
+msgstr ""
+
+#: includes/content-restriction.php:182
+msgid "logged in"
+msgstr ""
+
+#: includes/content-restriction.php:183
+msgid "This content is restricted for your subscription package."
+msgstr ""
+
+#: includes/content-restriction.php:184
+msgid "You don't have a valid subscription package"
+msgstr ""
+
+#: includes/content-restriction.php:185
+msgid "Your subscription pack is invalid or expired."
+msgstr ""
+
+#: includes/content-restriction.php:186
+msgid "Your subscription pack is not allowed to view this content"
+msgstr ""
+
+#: includes/content-restriction.php:187
+msgid "This content is restricted for your user role"
+msgstr ""
+
+#: includes/coupons.php:91
+msgid "Sorry invalid coupon code!"
+msgstr ""
+
+#: includes/coupons.php:116
+msgid "Selected Pack "
+msgstr ""
+
+#: includes/coupons.php:117
+msgid "Pack Price "
+msgstr ""
+
+#: includes/coupons.php:148
+msgid "Coupon is not availiable for this package!"
+msgstr ""
+
+#: includes/coupons.php:152
+msgid "Coupon usage limit exceeded!"
+msgstr ""
+
+#: includes/coupons.php:157
+msgid "Sorry, this coupon is not start!"
+msgstr ""
+
+#: includes/coupons.php:164
+msgid "Sorry, this coupon has been expired!"
+msgstr ""
+
+#: includes/coupons.php:169
+msgid "You are not allowed to use this coupon!"
+msgstr ""
+
+#: includes/form-element.php:9 includes/form-element.php:27
+#: includes/form-element.php:520 includes/form-element.php:523
+msgid "Click to add to the editor"
+msgstr ""
+
+#: includes/form-element.php:12
+msgid "Date"
+msgstr ""
+
+#: includes/form-element.php:13
+msgid "Image Upload"
+msgstr ""
+
+#: includes/form-element.php:15
+msgid "Google Maps"
+msgstr ""
+
+#: includes/form-element.php:32
+msgid "Term &amp; Conditions"
+msgstr ""
+
+#: includes/form-element.php:53
+msgid "Post Expiration"
+msgstr ""
+
+#: includes/form-element.php:57
+msgid "Enable Post Expiration"
+msgstr ""
+
+#: includes/form-element.php:62
+msgid "Post Expiration Time"
+msgstr ""
+
+#: includes/form-element.php:108
+msgid "Status of post after post expiration time is over "
+msgstr ""
+
+#: includes/form-element.php:119
+msgid "Send Email to Author After Exceeding Post Expiration Time"
+msgstr ""
+
+#: includes/form-element.php:149 includes/form-element.php:153
+#: includes/profile-form.php:246 includes/profile-form.php:250
+msgid "Enable Multistep"
+msgstr ""
+
+#: includes/form-element.php:156 includes/profile-form.php:253
+msgid "If checked, form will be displayed in frontend in multiple steps"
+msgstr ""
+
+#: includes/form-element.php:161 includes/profile-form.php:258
+msgid "Multistep Form Settings"
+msgstr ""
+
+#: includes/form-element.php:165 includes/profile-form.php:262
+msgid "Multistep Progressbar Type"
+msgstr ""
+
+#: includes/form-element.php:169 includes/profile-form.php:266
+msgid "Progressbar"
+msgstr ""
+
+#: includes/form-element.php:170 includes/profile-form.php:267
+msgid "Step by Step"
+msgstr ""
+
+#: includes/form-element.php:175 includes/profile-form.php:272
+msgid "Choose how you want the progressbar"
+msgstr ""
+
+#: includes/form-element.php:180 includes/profile-form.php:277
+msgid "Active Text Color"
+msgstr ""
+
+#: includes/form-element.php:187 includes/profile-form.php:284
+msgid "Text color for active step."
+msgstr ""
+
+#: includes/form-element.php:191 includes/profile-form.php:288
+msgid "Active Background Color"
+msgstr ""
+
+#: includes/form-element.php:198 includes/profile-form.php:295
+msgid "Background color for progressbar or active step."
+msgstr ""
+
+#: includes/form-element.php:202 includes/profile-form.php:299
+msgid "Background Color"
+msgstr ""
+
+#: includes/form-element.php:209 includes/profile-form.php:306
+msgid "Background color for normal steps."
+msgstr ""
+
+#: includes/form-element.php:238
+msgid "New post created"
+msgstr ""
+
+#: includes/form-element.php:243
+msgid "A post has been edited"
+msgstr ""
+
+#: includes/form-element.php:247
+msgid "New Post Notificatoin"
+msgstr ""
+
+#: includes/form-element.php:251 includes/form-element.php:285
+msgid "Notification"
+msgstr ""
+
+#: includes/form-element.php:256 includes/form-element.php:290
+msgid "Enable post notification"
+msgstr ""
+
+#: includes/form-element.php:262 includes/form-element.php:296
+msgid "To"
+msgstr ""
+
+#: includes/form-element.php:269 includes/form-element.php:301
+msgid "Subject"
+msgstr ""
+
+#: includes/form-element.php:274 includes/form-element.php:306
+msgid "Message"
+msgstr ""
+
+#: includes/form-element.php:281
+msgid "Update Post Notificatoin"
+msgstr ""
+
+#: includes/form-element.php:313
+msgid "You may use in to, subject & message:"
+msgstr ""
+
+#: includes/form-element.php:332
+msgid "Toggle All"
+msgstr ""
+
+#: includes/form-element.php:336
+msgid "Click on a form element to add to the editor"
+msgstr ""
+
+#: includes/form-element.php:375 includes/profile-form.php:333
+msgid "Registration successful"
+msgstr ""
+
+#: includes/form-element.php:376 includes/profile-form.php:429
+msgid "Profile updated successfully"
+msgstr ""
+
+#: includes/form-element.php:379 includes/login.php:212
+#: includes/profile-form.php:341
+msgid "Register"
+msgstr ""
+
+#: includes/form-element.php:380 includes/profile-form.php:438
+msgid "Update Profile"
+msgstr ""
+
+#: includes/form-element.php:383 includes/profile-form.php:221
+msgid "Enable Email Verfication"
+msgstr ""
+
+#: includes/form-element.php:391
+msgid "New User Role"
+msgstr ""
+
+#: includes/form-element.php:405 includes/profile-form.php:348
+#: includes/profile-form.php:446
+msgid "Redirect To"
+msgstr ""
+
+#: includes/form-element.php:410 includes/profile-form.php:353
+#: includes/profile-form.php:451
+msgid "Same Page"
+msgstr ""
+
+#: includes/form-element.php:411 includes/profile-form.php:354
+#: includes/profile-form.php:452
+msgid "To a page"
+msgstr ""
+
+#: includes/form-element.php:412 includes/profile-form.php:355
+#: includes/profile-form.php:453
+msgid "To a custom URL"
+msgstr ""
+
+#: includes/form-element.php:421 includes/profile-form.php:364
+#: includes/profile-form.php:462
+msgid "After successfull submit, where the page will redirect to"
+msgstr ""
+
+#: includes/form-element.php:427 includes/profile-form.php:370
+msgid "Registration success message"
+msgstr ""
+
+#: includes/form-element.php:434 includes/profile-form.php:468
+msgid "Update profile message"
+msgstr ""
+
+#: includes/form-element.php:441 includes/profile-form.php:377
+#: includes/profile-form.php:475
+msgid "Page"
+msgstr ""
+
+#: includes/form-element.php:456 includes/profile-form.php:392
+#: includes/profile-form.php:490
+msgid "Custom URL"
+msgstr ""
+
+#: includes/form-element.php:463 includes/profile-form.php:399
+msgid "Submit Button text"
+msgstr ""
+
+#: includes/form-element.php:470 includes/profile-form.php:497
+msgid "Update Button text"
+msgstr ""
+
+#: includes/form-element.php:536
+msgid "No custom taxonomies found"
+msgstr ""
+
+#: includes/form-element.php:779
+msgid "Time"
+msgstr ""
+
+#: includes/form-element.php:791
+msgid "Is Publish Time ? : "
+msgstr ""
+
+#: includes/form-element.php:887
+msgid "Set the map zoom level"
+msgstr ""
+
+#: includes/form-element.php:899
+msgid "Zoom Level"
+msgstr ""
+
+#: includes/form-element.php:904
+msgid "Default Co-ordinate"
+msgstr ""
+
+#: includes/form-element.php:909
+msgid "Address Button"
+msgstr ""
+
+#: includes/form-element.php:915
+msgid "Show address find button"
+msgstr ""
+
+#: includes/form-element.php:921
+msgid "Show Latitude/Longitude"
+msgstr ""
+
+#: includes/form-element.php:927
+msgid "Show latitude and longitude input box value"
+msgstr ""
+
+#: includes/form-element.php:955
+msgid "The country to be selected by default."
+msgstr ""
+
+#: includes/form-element.php:1199
+msgid "Address Description"
+msgstr ""
+
+#: includes/form-element.php:1204
+msgid "Address Field(s)"
+msgstr ""
+
+#: includes/form-element.php:1209
+msgid "Fields"
+msgstr ""
+
+#: includes/form-element.php:1210
+msgid "Required?"
+msgstr ""
+
+#: includes/form-element.php:1212
+msgid "Default Value"
+msgstr ""
+
+#: includes/form-element.php:1258
+msgid "City Name"
+msgstr ""
+
+#: includes/form-element.php:1276
+msgid "State/Region"
+msgstr ""
+
+#: includes/form-element.php:1294
+msgid "Zip/Postal Code"
+msgstr ""
+
+#: includes/form-element.php:1438
+msgid ""
+"This field depends on <a href='%s' target='_blank'>Really Simple "
+"Captcha</a> Plugin. Install it first."
+msgstr ""
+
+#: includes/form-element.php:1474
+msgid ""
+"An option for developers to add dynamic elements they want. It provides the "
+"chance to add whatever input type you want to add in this form."
+msgstr ""
+
+#: includes/form-element.php:1475
+msgid ""
+"This way, you can bind your own functions to render the form to this action "
+"hook. You'll be given 3 parameters to play with: $form_id, $post_id, "
+"$form_settings."
+msgstr ""
+
+#: includes/form-element.php:1522
+msgid "Insert terms and condtions here."
+msgstr ""
+
+#: includes/form-element.php:1548
+msgid "Options"
+msgstr ""
+
+#: includes/form-element.php:1586
+msgid "show values"
+msgstr ""
+
+#: includes/form-element.php:1587
+msgid "Value"
+msgstr ""
+
+#: includes/frontend-form-profile.php:35
+msgid "Please select subscription page"
+msgstr ""
+
+#: includes/frontend-form-profile.php:67
+msgid "Please login to update your profile!"
+msgstr ""
+
+#: includes/frontend-form-profile.php:72
+msgid "You are already logged in!"
+msgstr ""
+
+#: includes/frontend-form-profile.php:77
+msgid "User registration disabled, please contact the admin to enable."
+msgstr ""
+
+#: includes/frontend-form-profile.php:173
+msgid "An Email address is required"
+msgstr ""
+
+#: includes/frontend-form-profile.php:182
+msgid "Username already exists."
+msgstr ""
+
+#: includes/frontend-form-profile.php:191
+msgid "E-mail address already exists."
+msgstr ""
+
+#: includes/frontend-form-profile.php:201
+msgid "Username is not valid"
+msgstr ""
+
+#: includes/frontend-form-profile.php:212
+#: includes/frontend-form-profile.php:470
+msgid "Password must be %s character long"
+msgstr ""
+
+#: includes/frontend-form-profile.php:217
+#: includes/frontend-form-profile.php:475
+msgid "Password didn't match"
+msgstr ""
+
+#: includes/frontend-form-profile.php:297
+msgid "Please check your email for activation link"
+msgstr ""
+
+#: includes/frontend-form-profile.php:321
+msgid "Something went wrong"
+msgstr ""
+
+#: includes/frontend-form-profile.php:339
+msgid "Congrats! You are Successfully registered to %s:"
+msgstr ""
+
+#: includes/frontend-form-profile.php:340
+msgid "To activate your account, please click the link below"
+msgstr ""
+
+#: includes/frontend-form-profile.php:341
+msgid "%s"
+msgstr ""
+
+#: includes/frontend-form-profile.php:347
+msgid "[%s] Account Activation"
+msgstr ""
+
+#: includes/frontend-form-profile.php:454
+msgid "That E-mail already exists"
+msgstr ""
+
+#: includes/login.php:208 includes/login.php:264
+msgid "Log In"
+msgstr ""
+
+#: includes/login.php:216
+msgid "Lost Password"
+msgstr ""
+
+#: includes/login.php:254
+msgid ""
+"Please enter your username or email address. You will receive a link to "
+"create a new password via email."
+msgstr ""
+
+#: includes/login.php:264
+msgid "Your password has been reset. %s"
+msgstr ""
+
+#: includes/login.php:268
+msgid "Enter your new password below.."
+msgstr ""
+
+#: includes/login.php:278
+msgid "Check your e-mail for the confirmation link."
+msgstr ""
+
+#: includes/login.php:282
+msgid "You are now logged out."
+msgstr ""
+
+#: includes/login.php:311 includes/login.php:316 includes/login.php:321
+#: includes/login.php:331
+msgid "Error"
+msgstr ""
+
+#: includes/login.php:316
+msgid "Username is required."
+msgstr ""
+
+#: includes/login.php:321
+msgid "Password is required."
+msgstr ""
+
+#: includes/login.php:331
+msgid "A user could not be found with this email address."
+msgstr ""
+
+#: includes/login.php:421
+msgid "Please enter your password."
+msgstr ""
+
+#: includes/login.php:426
+msgid "Passwords do not match."
+msgstr ""
+
+#: includes/login.php:469
+msgid "Enter a username or e-mail address."
+msgstr ""
+
+#: includes/login.php:477
+msgid "There is no user registered with that email address."
+msgstr ""
+
+#: includes/login.php:495
+msgid "Invalid username or e-mail."
+msgstr ""
+
+#: includes/login.php:509
+msgid "Password reset is not allowed for this user"
+msgstr ""
+
+#: includes/login.php:553 includes/login.php:558 includes/login.php:565
+msgid "Invalid key"
+msgstr ""
+
+#: includes/login.php:588
+msgid ""
+"<strong>Your account is not active.</strong><br>Please check your email for "
+"activation link."
+msgstr ""
+
+#: includes/login.php:636
+msgid "Your account has been activated"
+msgstr ""
+
+#: includes/login.php:680
+msgid "Someone requested that the password be reset for the following account:"
+msgstr ""
+
+#: includes/login.php:682
+msgid "Username: %s"
+msgstr ""
+
+#: includes/login.php:683
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+
+#: includes/login.php:684
+msgid "To reset your password, visit the following address:"
+msgstr ""
+
+#: includes/login.php:693
+msgid "[%s] Password Reset"
+msgstr ""
+
+#: includes/login.php:698
+msgid "The e-mail could not be sent."
+msgstr ""
+
+#: includes/login.php:698
+msgid "Possible reason: your host may have disabled the mail() function."
+msgstr ""
+
+#: includes/post-form-templates/woocommerce.php:10
+msgid "WooCommerce Product"
+msgstr ""
+
+#: includes/post-form-templates/woocommerce.php:11
+msgid "Create a simple or downloadable product form for WooCommerce."
+msgstr ""
+
+#: includes/profile-form.php:62
+msgid "Registraton Forms"
+msgstr ""
+
+#: includes/profile-form.php:82
+msgid "Forms"
+msgstr ""
+
+#: includes/profile-form.php:83
+msgid "Form"
+msgstr ""
+
+#: includes/profile-form.php:84 wpuf-pro.php:297
+msgid "Registration Forms"
+msgstr ""
+
+#: includes/profile-form.php:86
+msgid "Add New Form"
+msgstr ""
+
+#: includes/profile-form.php:88
+msgid "Edit Form"
+msgstr ""
+
+#: includes/profile-form.php:89
+msgid "New Form"
+msgstr ""
+
+#: includes/profile-form.php:90 includes/profile-form.php:91
+msgid "View Form"
+msgstr ""
+
+#: includes/profile-form.php:92
+msgid "Search Form"
+msgstr ""
+
+#: includes/profile-form.php:93
+msgid "No Form Found"
+msgstr ""
+
+#: includes/profile-form.php:94
+msgid "No Form Found in Trash"
+msgstr ""
+
+#: includes/profile-form.php:95
+msgid "Parent Form"
+msgstr ""
+
+#: includes/profile-form.php:159
+msgid "General"
+msgstr ""
+
+#: includes/profile-form.php:160
+msgid "Display Settings"
+msgstr ""
+
+#: includes/profile-form.php:162
+msgid "Profile Update"
+msgstr ""
+
+#: includes/profile-form.php:226
+msgid "An email will be sent to the user to verify and activate the registration."
+msgstr ""
+
+#: includes/profile-form.php:242
+msgid "The user role of the newly registered user."
+msgstr ""
+
+#: includes/profile-form.php:516
+msgid "Label Position"
+msgstr ""
+
+#: includes/profile-form.php:521
+msgid "Above Element"
+msgstr ""
+
+#: includes/profile-form.php:522
+msgid "Left of Element"
+msgstr ""
+
+#: includes/profile-form.php:523
+msgid "Right of Element"
+msgstr ""
+
+#: includes/profile-form.php:524
+msgid "Hidden"
+msgstr ""
+
+#: includes/profile-form.php:534
+msgid "Where the labels of the form should display"
+msgstr ""
+
+#: includes/profile-form.php:557
+msgid "Profile Fields"
+msgstr ""
+
+#: includes/profile-form.php:644
+msgid "Save Draft"
+msgstr ""
+
+#: includes/profile-form.php:688 includes/profile-form.php:695
+msgid "Username"
+msgstr ""
+
+#: includes/profile-form.php:723 includes/profile-form.php:730
+msgid "First Name"
+msgstr ""
+
+#: includes/profile-form.php:758 includes/profile-form.php:765
+msgid "Last Name"
+msgstr ""
+
+#: includes/profile-form.php:793 includes/profile-form.php:800
+msgid "Display Name"
+msgstr ""
+
+#: includes/profile-form.php:828 includes/profile-form.php:835
+msgid "Nickname"
+msgstr ""
+
+#: includes/profile-form.php:863 includes/profile-form.php:870
+msgid "E-mail"
+msgstr ""
+
+#: includes/profile-form.php:898 includes/profile-form.php:905
+msgid "Website"
+msgstr ""
+
+#: includes/profile-form.php:933 includes/profile-form.php:940
+msgid "Biographical Info"
+msgstr ""
+
+#: includes/profile-form.php:1006 includes/profile-form.php:1014
+msgid "Password"
+msgstr ""
+
+#: includes/profile-form.php:1065 includes/profile-form.php:1072
+msgid "Avatar"
+msgstr ""
+
+#: includes/profile-form.php:1097
+msgid "Profile Forms must have Email field"
+msgstr ""
+
+#: includes/render-form.php:56 includes/render-form.php:72
+msgid "Add another"
+msgstr ""
+
+#: includes/render-form.php:57 includes/render-form.php:73
+msgid "Remove this choice"
+msgstr ""
+
+#: includes/render-form.php:185
+msgid "Select File(s)"
+msgstr ""
+
+#: includes/render-form.php:194
+msgid "Download File"
+msgstr ""
+
+#: includes/render-form.php:762
+msgid "Error: Really Simple Captcha plugin not found!"
+msgstr ""
+
+#: includes/subscription.php:8
+msgid "Recurring"
+msgstr ""
+
+#: includes/subscription.php:12
+msgid "Enable Recurring Payment"
+msgstr ""
+
+#: includes/subscription.php:18
+msgid "Billing cycle:"
+msgstr ""
+
+#: includes/subscription.php:32
+msgid "Billing cycle stop"
+msgstr ""
+
+#: includes/subscription.php:35
+msgid "Never"
+msgstr ""
+
+#: includes/subscription.php:38
+msgid "After how many cycles should billing stop?"
+msgstr ""
+
+#: includes/subscription.php:44
+msgid "Trial"
+msgstr ""
+
+#: includes/subscription.php:48
+msgid "Enable trial period"
+msgstr ""
+
+#: includes/subscription.php:54
+msgid "Trial period"
+msgstr ""
+
+#: includes/subscription.php:62
+msgid "Define the trial period"
+msgstr ""
+
+#: includes/subscription.php:67
+msgid "Enable Post Number Rollback"
+msgstr ""
+
+#: includes/subscription.php:71
+msgid "If enabled, number of posts will be restored if the post is deleted."
+msgstr ""
+
+#: includes/templates/billing-address.php:38
+msgid "Address Line 1 "
+msgstr ""
+
+#: includes/templates/billing-address.php:45
+msgid "Address Line 2 "
+msgstr ""
+
+#: includes/templates/billing-address.php:59
+msgid "State "
+msgstr ""
+
+#: includes/templates/billing-address.php:69
+msgid "Zip Code "
+msgstr ""
+
+#: includes/templates/billing-address.php:74
+msgid "Country "
+msgstr ""
+
+#: includes/templates/billing-address.php:98
+msgid "Update Billing Address"
+msgstr ""
+
+#: includes/templates/invoices.php:4
+msgid "Invoice"
+msgstr ""
+
+#: includes/templates/invoices.php:5
+msgid "Download Link"
+msgstr ""
+
+#: includes/templates/invoices.php:28
+msgid "Download"
+msgstr ""
+
+#: includes/updates.php:55
+msgid "Updates"
+msgstr ""
+
+#: includes/updates.php:78
+msgid ""
+"Please <a href=\"%s\">enter</a> your <strong>WP User Frontend</strong> "
+"plugin license key to get regular update and support."
+msgstr ""
+
+#: includes/updates.php:93
+msgid "Please activate your copy"
+msgstr ""
+
+#: includes/updates.php:132
+msgid "WP User Frontend Error:"
+msgstr ""
+
+#: includes/updates.php:323
+msgid "Empty email address"
+msgstr ""
+
+#: includes/updates.php:327
+msgid "Empty license key"
+msgstr ""
+
+#: includes/updates.php:345
+msgid "Settings Saved"
+msgstr ""
+
+#: includes/updates.php:361
+msgid "Plugin Activation"
+msgstr ""
+
+#: includes/updates.php:384
+msgid "E-mail Address"
+msgstr ""
+
+#: includes/updates.php:387
+msgid "Enter your purchase Email address"
+msgstr ""
+
+#: includes/updates.php:391
+msgid "License Key"
+msgstr ""
+
+#: includes/updates.php:394
+msgid "Enter your license key"
+msgstr ""
+
+#: includes/updates.php:408
+msgid "has been expired %s ago"
+msgstr ""
+
+#: includes/updates.php:411
+msgid "will expire in %s"
+msgstr ""
+
+#: includes/updates.php:417
+msgid "Validity:"
+msgstr ""
+
+#: includes/updates.php:422
+msgid "Renew License"
+msgstr ""
+
+#: includes/updates.php:430
+msgid "Plugin is activated"
+msgstr ""
+
+#: includes/updates.php:434
+msgid "Delete License"
+msgstr ""
+
+#: wpuf-pro.php:69
+msgid "Your WP User Frontend Pro is almost ready!"
+msgstr ""
+
+#: wpuf-pro.php:75
+msgid "Dismiss this notice"
+msgstr ""
+
+#: wpuf-pro.php:78
+msgid "You just need to activate the Core Plugin to make it functional."
+msgstr ""
+
+#: wpuf-pro.php:80
+msgid "Activate this plugin"
+msgstr ""
+
+#: wpuf-pro.php:80
+msgid "Activate"
+msgstr ""
+
+#: wpuf-pro.php:83
+msgid "You just need to install the %sCore Plugin%s to make it functional."
+msgstr ""
+
+#: wpuf-pro.php:86
+msgid "Install Now"
+msgstr ""
+
+#: wpuf-pro.php:133
+msgid "Error: Nonce verification failed"
+msgstr ""
+
+#: wpuf-pro.php:336
+msgid "Coupons"
+msgstr ""
+
+#: wpuf-pro.php:344
+msgid "Google Map API"
+msgstr ""
+
+#: wpuf-pro.php:345
+msgid ""
+"<a target=\"_blank\" "
+"href=\"https://developers.google.com/maps/documentation/javascript\">API</a>"
+" key is needed to render Google Maps"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WP User Frontend Pro"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wedevs.com/wp-user-frontend-pro/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "The paid module to add extra features on WP User Frontend."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "weDevs"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://wedevs.com"
+msgstr ""

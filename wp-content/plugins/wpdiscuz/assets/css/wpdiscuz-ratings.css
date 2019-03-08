@@ -1,0 +1,51 @@
+#wpcomm .wpd-top-custom-fields .wpd-custom-field.wpd-cf-rating .wpd-cf-label{ background:transparent; border:none; padding: 2px 10px 2px 2px; }
+#wpcomm .wpd-top-custom-fields .wpd-custom-field.wpd-cf-rating .wpd-cf-value{font-size: 16px; border-bottom:none; padding: 1px 10px; }
+
+#wpcomm .wpdiscuz-item.wpd-field-group.wpd-field-rating{ border-bottom:1px dotted #ddd; height:77px; margin-bottom:0px;}
+#wpcomm .wpdiscuz-item .wpdiscuz-rating {border: none; float: left; margin:0px; padding:5px 0px 5px 1px; margin-left:-5px;}
+#wpcomm .wpdiscuz-item .wpdiscuz-rating > input { visibility:hidden; position:absolute;} 
+#wpcomm .wpdiscuz-item .wpdiscuz-rating > label:before { margin: 3px; line-height: 18px; font-size: 1.4em;  cursor:pointer;}
+#wpcomm .wpdiscuz-item .wpdiscuz-rating > .half:before {position: absolute; cursor:pointer;}
+#wpcomm .wpdiscuz-item .wpdiscuz-rating > label { float: right; }
+#wpcomm .wpd-form-col-full .wpdiscuz-item.wpd-field-rating.wpd-has-desc .wpd-field-desc{ right:0px; top:0px; position:relative; font-size:14px; margin-left:5px; padding: 0 7px;}
+#wpcomm .wpd-form-col-full .wpdiscuz-item.wpd-field-rating.wpd-has-desc .wpd-field-desc i.far{ font-size:17px;}
+#wpcomm .wpd-form-col-full .wpd-field-group .wpd-field-group-title{ display:inline-block; vertical-align:baseline; padding:0px 0px 2px 0px; margin-top:-2px;}
+#wpcomm .wpd-form-col-full .wpdiscuz-item .wpdiscuz-rating{ padding:0px 6px 0px 0px; vertical-align:middle; line-height: 14px;}
+#wpcomm .wpd-form-col-full .wpd-item-wrap{ display:inline-block; float:left; padding-right:7px; vertical-align:baseline; padding:0px 1px 1px 1px;}
+.wpdiscuz-stars-label{ line-height:20px; padding:10px 0px 2px 3px; font-size:14px;}
+.wpdiscuz-stars-wrapper{ display:block;}
+.wpdiscuz-stars-wrapper-inner{ position: absolute;}
+.wpdiscuz-activ-stars{ position: absolute; display: flex; font-size: 22px; top: 0; left:0;}
+.wpdiscuz-pasiv-stars{ font-size: 22px; display: flex;}
+.wpdiscuz-activ-stars{ overflow:hidden;}
+.wpdiscuz-pasiv-stars i.wpdiscuz-pasiv-star, .wpdiscuz-activ-stars i.wpdiscuz-activ-star{ padding:0px 2px; font-size:20px;}
+.wpdiscuz-post-rating-wrap.wpd-custom-field{display: flex;flex-wrap: wrap;}
+.wpdiscuz-post-rating-wrap.wpd-custom-field > [class ^= wpdiscuz-post-rating-wrap-custom_field]{flex-basis: 25%;margin-bottom: 10px;}
+@media screen and (max-width: 1024px){
+    .wpdiscuz-post-rating-wrap.wpd-custom-field > [class ^= wpdiscuz-post-rating-wrap-custom_field]{flex-basis: 33%;margin-bottom: 10px;}
+}
+@media screen and (max-width:650px){
+    .wpdiscuz-post-rating-wrap.wpd-custom-field > [class ^= wpdiscuz-post-rating-wrap-custom_field]{
+        flex-basis: 50%;
+        margin-bottom: 10px;
+    }
+}
+@media screen and (max-width:420px){
+    .wpdiscuz-post-rating-wrap.wpd-custom-field > [class ^= wpdiscuz-post-rating-wrap-custom_field]{
+        flex-basis: 100%;
+        margin-bottom: 10px;
+    }
+}
+
+#wpcomm .wpdiscuz-item .wpdiscuz-rating > label {color: #DDDDDD;}
+#wpcomm .wpdiscuz-item .wpdiscuz-rating > input ~ label:hover,
+#wpcomm .wpdiscuz-item .wpdiscuz-rating > input:not(:checked) ~ label:hover ~ label,
+#wpcomm .wpdiscuz-item .wpdiscuz-rating > input:not(:checked) ~ label:hover ~ label{color: #FFED85;}
+#wpcomm .wpdiscuz-item .wpdiscuz-rating > input:checked ~ label:hover,
+#wpcomm .wpdiscuz-item .wpdiscuz-rating > input:checked ~ label:hover,
+#wpcomm .wpdiscuz-item .wpdiscuz-rating > label:hover ~ input:checked ~ label,
+#wpcomm .wpdiscuz-item .wpdiscuz-rating > input:checked + label:hover ~ label,
+#wpcomm .wpdiscuz-item .wpdiscuz-rating > input:checked ~ label:hover ~ label, 
+.wpd-custom-field .wcf-activ-star,
+#wpcomm .wpdiscuz-item .wpdiscuz-rating > input:checked ~ label{ color:#FFD700;}
+.wpd-custom-field .wcf-pasiv-star, #wpcomm .wpdiscuz-item .wpdiscuz-rating > label {color: #DDDDDD;}
